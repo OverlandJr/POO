@@ -2,6 +2,6 @@ package com.exemplo;
 
 public class Pessoa {
     public String dizerOla(){
-        return "Olá, Maven!";
+        return "Olá, maven!";
     }
 }
